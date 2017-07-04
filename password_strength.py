@@ -1,4 +1,5 @@
 # http://pythonfiddle.com/password-strength-tester/
+#
 
 def get_password_strength(password, pre_pass, name_f, name_s):
     lower_alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's',
